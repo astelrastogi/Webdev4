@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    background-color: palevioletred;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+ul{
+    margin: 20px;
+    list-style: none;
+}
+footer{
+    margin-top: 700px;
+}
